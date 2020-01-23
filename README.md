@@ -1,2 +1,2 @@
-# Camera_App
+# Camera-app
 Code for Camera app on phone
